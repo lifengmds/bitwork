@@ -8,7 +8,7 @@
   "dependencies": {
     "b2p2p": "https://github.com/lifengmds/bsv-p2p.git",
     "batch-stream": "^0.1.3",
-    "bitcoind-rpc": "https://github.com/bitpay/bitcoind-rpc.git",
+    "bitcoind-rpc": "https://github.com/lifengmds/bitcoind-rpc.git",
     "bpu": "0.0.10",
     "event-stream": "^4.0.1",
     "JSONStream": "^1.3.5",
